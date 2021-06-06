@@ -44,3 +44,5 @@ for url in urls:
         print("\t\t{}".format(sal.text))
         for hor in hora:
           print("\t\t\t{}".format(hor.text))
+
+          
